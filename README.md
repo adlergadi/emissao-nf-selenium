@@ -44,7 +44,6 @@ emissao-nf-selenium/
 │   └── index.html
 │
 ├── src/
-│   ├── __init__.py
 │   ├── main.py
 │   ├── config.py
 │   ├── navegador.py
